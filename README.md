@@ -32,6 +32,7 @@ Most of my work lives in private repositories, so the graph below is quieter tha
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -49,12 +50,12 @@ Most of my work lives in private repositories, so the graph below is quieter tha
 
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
+| [**keepsake**](https://github.com/JotaDev21/keepsake) | Expo · React Native · TypeScript · Supabase | Local-first memory app. Strict TypeScript, no telemetry, authorisation pushed down into Postgres policies rather than the client. |
+| [**moodwrapped**](https://github.com/JotaDev21/moodwrapped) | Next.js · React · Tailwind | A year of listening history read as an emotional narrative rather than a leaderboard. |
 | **global-lead-scraper** | Python · PostgreSQL · Playwright · Docker | Demand radar for used mobile homes. Scrapes Facebook groups and RSS feeds, classifies purchase intent, and serves the results through a dashboard. |
-| **foreverapp** | Expo · Supabase | *Para Sempre* — a memory vault. Cross-platform mobile app for storing and revisiting personal archives. |
-| **eve-app** | TypeScript · PL/pgSQL | Web application with a Postgres-side logic layer. |
-| **spotify-wrapped-emocional** | TypeScript | A Spotify year-in-review that reads listening history as an emotional narrative rather than a leaderboard. |
+| **cofre** | Expo · React Native · Supabase | A private vault for texts, photos, video and audio, organised by type and date. |
 
-> Repositories are private. Happy to walk through the architecture on request.
+> Some of these are still private. Happy to walk through the architecture on request.
 
 ---
 
