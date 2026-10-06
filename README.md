@@ -1,23 +1,87 @@
-# Johnatan Andrey
+<div align="center">
 
-Desenvolvedor de produto. Construo aplicações para web e mobile, automações e ferramentas que organizam trabalho de verdade.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a2b,48:0c4a5a,100:17a398&height=210&section=header&text=Johnatan%20Andrey&fontSize=46&fontColor=f7fffb&fontAlignY=36&desc=produto%20%C2%B7%20engenharia%20%C2%B7%20automa%C3%A7%C3%A3o&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Johnatan Andrey — produto, engenharia e automação" />
 
-Gosto de software quieto: menos ruído na tela, menos promessa no texto e mais coisa funcionando por baixo.
+### Eu gosto de software quieto.
 
-## No que estou trabalhando
+Menos ruído na tela, menos promessa no texto e mais coisa funcionando por baixo.
 
-- **LeadBack** — um SaaS B2B para encontrar oportunidades comerciais esquecidas em conversas de WhatsApp e organizar o próximo contato.
-- [**Keepsake**](https://github.com/JotaDev21/keepsake) — um app local-first para guardar memórias com privacidade, sem telemetria e sem dependência da nuvem.
-- **Luma Studio** — um editor de fotos e Stories para Android, com processamento local e uma experiência pensada para celular.
+`problema real` → `fluxo simples` → `arquitetura sólida` → `produto utilizável`
 
-A maior parte desses produtos fica privada enquanto amadurece. Quando um deles está pronto para ser útil fora do meu ambiente, eu abro o código ou publico uma versão utilizável.
+</div>
 
-## Como eu trabalho
+## O que estou construindo
 
-Começo pelo fluxo real: quem usa, onde perde tempo e qual decisão o software precisa facilitar. Depois cuido da arquitetura, da segurança dos dados e dos detalhes que fazem o produto parecer simples.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Hoje trabalho principalmente com **TypeScript, React, Next.js, Expo, Kotlin, Python, PostgreSQL e Supabase**.
+### LeadBack
 
----
+SaaS B2B que encontra oportunidades comerciais esquecidas em conversas de WhatsApp e organiza o próximo contato.
 
-Se quiser acompanhar o que estou construindo, os projetos públicos aparecem por aqui conforme ficam prontos.
+`Next.js` `TypeScript` `Supabase` `IA`
+
+</td>
+<td width="50%" valign="top">
+
+### [Keepsake](https://github.com/JotaDev21/keepsake)
+
+Um lugar privado para guardar memórias. Local-first, sem telemetria e sem dependência da nuvem.
+
+`Expo` `React Native` `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Luma Studio
+
+Editor de fotos e Stories para Android, com processamento local e uma experiência feita para celular.
+
+`Kotlin` `Android` `On-device`
+
+</td>
+<td width="50%" valign="top">
+
+### InvestLab
+
+Laboratório educacional de investimentos com simulador e uma versão offline que funciona em um único arquivo.
+
+`HTML` `JavaScript` `Offline-first`
+
+</td>
+</tr>
+</table>
+
+<sub>Alguns projetos ficam privados enquanto amadurecem. Abro o código quando ele já tem algo útil para dizer.</sub>
+
+## Meu jeito de trabalhar
+
+Começo pelo fluxo real: quem usa, onde perde tempo e qual decisão o software precisa facilitar. A tecnologia vem depois, escolhida para manter a experiência simples e os dados bem cuidados.
+
+Não tenho muito apego a uma ferramenta específica. Tenho apego a produto que abre, responde e resolve.
+
+## Ferramentas que aparecem bastante por aqui
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0c4a5a?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0c4a5a?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0c4a5a?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Expo-0c4a5a?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Kotlin-0c4a5a?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-0c4a5a?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0c4a5a?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-0c4a5a?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JotaDev21&bg_color=071a2b&color=a7d8d1&line=17a398&point=f7fffb&area=true&area_color=0c4a5a&hide_border=true&custom_title=Atividade%20no%20GitHub" width="100%" alt="Atividade de Johnatan no GitHub" />
+
+<sub>Grande parte do trabalho acontece em repositórios privados — o gráfico mostra só a parte pública da história.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17a398,52:0c4a5a,100:071a2b&height=105&section=footer" width="100%" alt="" />
+
+</div>
