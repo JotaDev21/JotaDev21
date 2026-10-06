@@ -78,9 +78,7 @@ Não tenho muito apego a uma ferramenta específica. Tenho apego a produto que a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JotaDev21&bg_color=071a2b&color=a7d8d1&line=17a398&point=f7fffb&area=true&area_color=0c4a5a&hide_border=true&custom_title=Atividade%20no%20GitHub" width="100%" alt="Atividade de Johnatan no GitHub" />
-
-<sub>Grande parte do trabalho acontece em repositórios privados — o gráfico mostra só a parte pública da história.</sub>
+<sub>Grande parte do trabalho acontece em repositórios privados. O perfil público mostra só uma parte da história.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17a398,52:0c4a5a,100:071a2b&height=105&section=footer" width="100%" alt="" />
 
