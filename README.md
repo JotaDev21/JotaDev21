@@ -21,11 +21,11 @@ SaaS B2B para recuperar oportunidades comerciais em conversas de WhatsApp.
 </td>
 <td width="50%" valign="top">
 
-### [Keepsake](https://github.com/JotaDev21/keepsake)
+### [Remnant](https://github.com/JotaDev21/remnant-updates/releases)
 
-App local-first para guardar memórias com privacidade e sem telemetria.
+Aplicativo Android de treino com progressão por patentes, nutrição e acompanhamento de evolução.
 
-`Expo` `React Native` `TypeScript`
+`Kotlin` `Jetpack Compose` `Supabase`
 
 </td>
 </tr>
