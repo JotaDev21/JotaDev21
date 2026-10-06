@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a2b,48:0c4a5a,100:17a398&height=210&section=header&text=Johnatan%20Andrey&fontSize=46&fontColor=f7fffb&fontAlignY=36&desc=produto%20%C2%B7%20engenharia%20%C2%B7%20automa%C3%A7%C3%A3o&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Johnatan Andrey — produto, engenharia e automação" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a2b,48:0c4a5a,100:17a398&height=210&section=header&text=Johnatan%20Andrey&fontSize=46&fontColor=f7fffb&fontAlignY=36&desc=Full-stack%20developer&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Johnatan Andrey — Full-stack developer" />
 
-### Eu gosto de software quieto.
-
-Menos ruído na tela, menos promessa no texto e mais coisa funcionando por baixo.
-
-`problema real` → `fluxo simples` → `arquitetura sólida` → `produto utilizável`
+Desenvolvo aplicações web, mobile e automações.
 
 </div>
 
-## O que estou construindo
+## Projetos
 
 <table>
 <tr>
@@ -18,16 +14,16 @@ Menos ruído na tela, menos promessa no texto e mais coisa funcionando por baixo
 
 ### LeadBack
 
-SaaS B2B que encontra oportunidades comerciais esquecidas em conversas de WhatsApp e organiza o próximo contato.
+SaaS B2B para recuperar oportunidades comerciais em conversas de WhatsApp.
 
-`Next.js` `TypeScript` `Supabase` `IA`
+`Next.js` `TypeScript` `Supabase`
 
 </td>
 <td width="50%" valign="top">
 
 ### [Keepsake](https://github.com/JotaDev21/keepsake)
 
-Um lugar privado para guardar memórias. Local-first, sem telemetria e sem dependência da nuvem.
+App local-first para guardar memórias com privacidade e sem telemetria.
 
 `Expo` `React Native` `TypeScript`
 
@@ -38,32 +34,24 @@ Um lugar privado para guardar memórias. Local-first, sem telemetria e sem depen
 
 ### Luma Studio
 
-Editor de fotos e Stories para Android, com processamento local e uma experiência feita para celular.
+Editor de fotos e Stories para Android com processamento local.
 
-`Kotlin` `Android` `On-device`
+`Kotlin` `Android`
 
 </td>
 <td width="50%" valign="top">
 
 ### InvestLab
 
-Laboratório educacional de investimentos com simulador e uma versão offline que funciona em um único arquivo.
+Simulador educacional de investimentos com versão offline.
 
-`HTML` `JavaScript` `Offline-first`
+`HTML` `JavaScript`
 
 </td>
 </tr>
 </table>
 
-<sub>Alguns projetos ficam privados enquanto amadurecem. Abro o código quando ele já tem algo útil para dizer.</sub>
-
-## Meu jeito de trabalhar
-
-Começo pelo fluxo real: quem usa, onde perde tempo e qual decisão o software precisa facilitar. A tecnologia vem depois, escolhida para manter a experiência simples e os dados bem cuidados.
-
-Não tenho muito apego a uma ferramenta específica. Tenho apego a produto que abre, responde e resolve.
-
-## Ferramentas que aparecem bastante por aqui
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-0c4a5a?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -76,10 +64,4 @@ Não tenho muito apego a uma ferramenta específica. Tenho apego a produto que a
   <img src="https://img.shields.io/badge/Supabase-0c4a5a?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-<div align="center">
-
-<sub>Grande parte do trabalho acontece em repositórios privados. O perfil público mostra só uma parte da história.</sub>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17a398,52:0c4a5a,100:071a2b&height=105&section=footer" width="100%" alt="" />
-
-</div>
