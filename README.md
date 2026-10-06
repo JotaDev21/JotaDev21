@@ -1,77 +1,23 @@
-<div align="center">
+# Johnatan Andrey
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=180&section=header&text=Johnatan%20Andrey&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full-stack%20developer&descSize=18&descAlignY=54" width="100%" alt="Johnatan Andrey" />
+Desenvolvedor de produto. Construo aplicações para web e mobile, automações e ferramentas que organizam trabalho de verdade.
 
-**Data pipelines · scraping infrastructure · mobile apps**
+Gosto de software quieto: menos ruído na tela, menos promessa no texto e mais coisa funcionando por baixo.
 
-<a href="https://github.com/JotaDev21"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+## No que estou trabalhando
 
-</div>
+- **LeadBack** — um SaaS B2B para encontrar oportunidades comerciais esquecidas em conversas de WhatsApp e organizar o próximo contato.
+- [**Keepsake**](https://github.com/JotaDev21/keepsake) — um app local-first para guardar memórias com privacidade, sem telemetria e sem dependência da nuvem.
+- **Luma Studio** — um editor de fotos e Stories para Android, com processamento local e uma experiência pensada para celular.
 
----
+A maior parte desses produtos fica privada enquanto amadurece. Quando um deles está pronto para ser útil fora do meu ambiente, eu abro o código ou publico uma versão utilizável.
 
-## About
+## Como eu trabalho
 
-I build systems that collect data, make sense of it, and act on it.
+Começo pelo fluxo real: quem usa, onde perde tempo e qual decisão o software precisa facilitar. Depois cuido da arquitetura, da segurança dos dados e dos detalhes que fazem o produto parecer simples.
 
-- **Scraping at scale** — browser automation, session handling, anti-detection, retry and rate-limit strategy
-- **Data pipelines** — ingestion, deduplication, enrichment and intent classification on top of PostgreSQL
-- **Product** — the dashboards and mobile apps that turn the pipeline output into something usable
-
-Most of my work lives in private repositories, so the graph below is quieter than the actual workload.
+Hoje trabalho principalmente com **TypeScript, React, Next.js, Expo, Kotlin, Python, PostgreSQL e Supabase**.
 
 ---
 
-## Tech stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## What I'm working on
-
-| Project | Stack | What it does |
-| :--- | :--- | :--- |
-| [**keepsake**](https://github.com/JotaDev21/keepsake) | Expo · React Native · TypeScript · Supabase | Local-first memory app. Strict TypeScript, no telemetry, authorisation pushed down into Postgres policies rather than the client. |
-| [**moodwrapped**](https://github.com/JotaDev21/moodwrapped) | Next.js · React · Tailwind | A year of listening history read as an emotional narrative rather than a leaderboard. |
-| **global-lead-scraper** | Python · PostgreSQL · Playwright · Docker | Demand radar for used mobile homes. Scrapes Facebook groups and RSS feeds, classifies purchase intent, and serves the results through a dashboard. |
-| **cofre** | Expo · React Native · Supabase | A private vault for texts, photos, video and audio, organised by type and date. |
-
-> Some of these are still private. Happy to walk through the architecture on request.
-
----
-
-## Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JotaDev21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&bg_color=0d1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaDev21&layout=compact&langs_count=8&hide_border=true&title_color=0ea5e9&text_color=94a3b8&bg_color=0d1117" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JotaDev21&theme=github-compact&hide_border=true&color=0ea5e9&line=0ea5e9&point=ffffff&area=true" width="98%" alt="Activity graph" />
-
-</div>
-
----
-
-<div align="center">
-<sub>Built things that work before building things that look like they work.</sub>
-</div>
+Se quiser acompanhar o que estou construindo, os projetos públicos aparecem por aqui conforme ficam prontos.
