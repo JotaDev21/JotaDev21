@@ -12,6 +12,6 @@ Desenvolvo apps Android, aplicações web e automações. Estou disponível para
 | [REMNANT para Android](https://github.com/JotaDev21/remnant-updates) | App Android de treino com histórico e progressão por patentes. A página reúne as versões alpha. |
 | [Luma Studio](https://jotadev21-portfolio.comettitan7.chatgpt.site/#luma) | Editor Android de fotos e Stories, com ajustes, camadas e exportação no aparelho. |
 | [Keepsake Mobile](https://github.com/JotaDev21/keepsake-mobile) | App de memórias com armazenamento local em SQLite e integrações opcionais. |
-| [InvestLab](https://jotadev21-portfolio.comettitan7.chatgpt.site/demos/investlab/) | Simulador educacional de investimentos com dinheiro fictício e versão offline. |
+| [InvestLab](https://github.com/JotaDev21/investlab-simulator) | Simulador educacional de investimentos com dinheiro fictício. O repositório inclui um HTML para testar offline. |
 
 Trabalho com Kotlin e Jetpack Compose no Android, TypeScript e React na web, e Python para automações. Uso Claude e Codex como apoio para estudar e desenvolver e testo os fluxos que apresento.
